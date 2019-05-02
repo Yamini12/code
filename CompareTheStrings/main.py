@@ -8,4 +8,4 @@ value2=input('Second value:')
 
 com=Compare()
 
-print(com.compare('2', '3'))
+print(com.compare(value1, value2))
